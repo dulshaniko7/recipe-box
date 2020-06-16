@@ -37623,12 +37623,7 @@ var staticRenderFns = [
                   _c(
                     "a",
                     { staticClass: "nav-item nav-link", attrs: { href: "#" } },
-                    [
-                      _vm._v("Home "),
-                      _c("span", { staticClass: "sr-only" }, [
-                        _vm._v("(current)")
-                      ])
-                    ]
+                    [_vm._v("Home")]
                   ),
                   _vm._v(" "),
                   _c(
